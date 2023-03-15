@@ -561,7 +561,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  margin: 32px 40px 0px 0px;
+  margin: 32px 0px 0px 0px;
 }
 .swiper-button-next {
   max-width: 64px !important;
@@ -802,6 +802,7 @@ body {
   font-size: 16px;
   color: #000000;
   opacity: 0.5;
+  margin-bottom: 12px;
 }
 .footer-item__text {
   font-family: "Open Sans";
